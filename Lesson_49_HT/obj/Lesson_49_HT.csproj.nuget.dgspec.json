@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\elvin\\Desktop\\Cybernetics Backend\\Lesson_49_HT\\Lesson_49_HT\\Lesson_49_HT.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\elvin\\Desktop\\Cybernetics Backend\\Lesson_49_HT\\Lesson_49_HT\\Lesson_49_HT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\elvin\\Desktop\\Cybernetics Backend\\Lesson_49_HT\\Lesson_49_HT\\Lesson_49_HT.csproj",
+        "projectName": "Lesson_49_HT",
+        "projectPath": "C:\\Users\\elvin\\Desktop\\Cybernetics Backend\\Lesson_49_HT\\Lesson_49_HT\\Lesson_49_HT.csproj",
+        "packagesPath": "C:\\Users\\elvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elvin\\Desktop\\Cybernetics Backend\\Lesson_49_HT\\Lesson_49_HT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\elvin\\Desktop\\Cybernetics Backend\\Lesson_49_HT\\MyList\\MyList.csproj": {
+                "projectPath": "C:\\Users\\elvin\\Desktop\\Cybernetics Backend\\Lesson_49_HT\\MyList\\MyList.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\elvin\\Desktop\\Cybernetics Backend\\Lesson_49_HT\\MyList\\MyList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\elvin\\Desktop\\Cybernetics Backend\\Lesson_49_HT\\MyList\\MyList.csproj",
+        "projectName": "MyList",
+        "projectPath": "C:\\Users\\elvin\\Desktop\\Cybernetics Backend\\Lesson_49_HT\\MyList\\MyList.csproj",
+        "packagesPath": "C:\\Users\\elvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elvin\\Desktop\\Cybernetics Backend\\Lesson_49_HT\\MyList\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
